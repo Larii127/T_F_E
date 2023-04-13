@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tedteste</title>
+</head>
+<body>
+    <h1 style="color: blueviolet;">Meu Dorama!</h1>
+    <ul type="I">
+        <li><h2>Pousando no Amor</li><a href="https://www.netflix.com/br/title/81159258"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Uma Adevogada Extraordinária</li><a href="https://www.netflix.com/br/title/81518991?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Alquimia das Almas</li><a href="https://www.netflix.com/br/title/81517188?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Hometown Cha-Cha-Cha</li><a href="https://www.netflix.com/br/title/81473182?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Love to Hate You</li><a href="https://www.netflix.com/br/title/81463556?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Clima do Amor</li><a href="https://www.netflix.com/br/title/81572781?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>A Love So Beautiful</li><a href="https://www.netflix.com/br/title/81354739?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Pretendente Surpresa</li><a href="https://www.netflix.com/br/title/81509440?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Loucos um pelo Outro</li><a href="https://www.netflix.com/br/title/81430301?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Her Private Life</li><a href="https://www.netflix.com/br/title/81205812?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>As Três Irmãs</li><a href="https://www.netflix.com/br/title/81610895?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Round 6</li><a href="https://www.netflix.com/br/title/81040344?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>O Rei Eterno</li><a href="https://www.netflix.com/br/title/81260283?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Navillera</li><a href="https://www.netflix.com/br/title/81403966?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Holo, Meu Amor</li><a href="https://www.netflix.com/br/title/81008021?source=35"><button style="color: blueviolet;">Clique Aqui!</button></a>
+        <li><h2>Apesar de tudo amor</li><a href=https://www.netflix.com/br/title/81435649?source=35><button style="color: blueviolet;">Clique Aqui!</button></a>
+    </ul>
+
+</body>
+</html>
+
+
