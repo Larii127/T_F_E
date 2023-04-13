@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {background-color: blueviolet;}
+        h1{color:  rgb(242, 248, 248);}
+        h3 {color:  rgb(242, 248, 248);}
+        p {color:  rgb(242, 248, 248);}
+    </style>
+</head>
+<body>
+    <h1>Meu dorama, meu mundo!</h1>
+    
+    <img src="https://interprete.me/wp-content/uploads/2018/09/o-que-e-dorama-explicacao-melhores-doramas-netflix-capa.jpg"
+    <br>
+    <br>
+    <h3>Explicação:</h3>
+    <p>O nome dorama tem origem na palavra “drama”. Portanto, doramas nada mais são que produções dramáticas desenvolvidas em países orientais. Como todas as séries, eles são formados por uma sequência de episódios e às vezes têm mais de uma temporada.</p>
+    <h3>Curiosidades</h3>
+    <p>As novelas asiáticas de drama, também conhecidas como doramas, caíram no gosto popular e se tornaram uma febre ao redor do mundo. Estas séries possuem poucos episódios e são perfeitas para maratonar. Os dramas coreanos românticos (k-dramas) são os mais populares, mas por toda a Ásia essas séries são produzidas e cultuadas por legiões de fãs.
+
+        O gênero de romance é sem dúvida um dos mais frequentes nos doramas. As histórias cativantes, fofas e engraçadas divertem e conquistam telespectadores de qualquer nacionalidade. Para esta lista, separamos os melhores doramas românticos que aquecerão o seu coração.</p>
+    
+    <h3>Lista de séries:</h3>
+    <a href="file:///C:/Users/Julia/Desktop/v.s_code/pagina2.html"><button style="color: blueviolet;">Clique Aqui!</button></a>
+    
+
+</body>
+</html>
